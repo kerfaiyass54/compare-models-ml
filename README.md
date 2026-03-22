@@ -1,5 +1,8 @@
 # Machine learning project - Comparing models performance
 
+[![My Skills](https://skillicons.dev/icons?i=py,docker,angular,bootstrap,css,git,github,html,postman,githubactions,ts,vscode)](https://skillicons.dev)
+
+
 ## 🚀 Overview
 This is a Python project designed to compare the performance of various machine learning models for predicting house prices based on real estate data. This project aims to provide a comprehensive comparison of different regression models, including Linear Regression, Decision Tree, Random Forest, and Gradient Boosting. By evaluating these models using key metrics such as Mean Absolute Error (MAE) and R² score, developers can gain insights into the strengths and weaknesses of each model.
 
@@ -100,22 +103,6 @@ pip install -r requirements.txt
 - Ensure your code is well-tested
 - Provide clear and concise commit messages
 - Address any feedback from reviewers
+- Enhance visualization of results
 
 
-## 🐛 Issues & Support
-- Report issues on the [GitHub Issues page](https://github.com/yourusername/compare-models-ml/issues)
-- For support, please open an issue or contact the maintainers
-
-## 🗺️ Roadmap
-- **Planned Features**:
-  - Add more models for comparison
-  - Implement hyperparameter tuning
-  - Improve data preprocessing steps
-- **Known Issues**:
-  - None
-- **Future Improvements**:
-  - Add support for more data formats
-  - Enhance visualization of results
-
-
-This README is designed to be comprehensive and engaging, providing all the necessary information for developers to understand, use, and contribute to the project.
