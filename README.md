@@ -37,7 +37,7 @@ This is a Python project designed to compare the performance of various machine 
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/compare-models-ml.git
+git clone https://github.com/kerfaiyass54/compare-models-ml.git
 
 # Navigate to the project directory
 cd compare-models-ml
@@ -85,7 +85,7 @@ We welcome contributions! Please follow these guidelines:
 ### Development Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/compare-models-ml.git
+git clone https://github.com/kerfaiyass54/compare-models-ml.git
 
 # Navigate to the project directory
 cd compare-models-ml
